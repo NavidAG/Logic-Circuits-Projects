@@ -1,0 +1,16 @@
+C:/Users/Navid_gh/Desktop/Project/OccasionalTaxiMeter.v {1 {vlog -work work -vopt -stats=none C:/Users/Navid_gh/Desktop/Project/OccasionalTaxiMeter.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module taxiMeter1
+
+Top level modules:
+	taxiMeter1
+
+} {} {}} C:/Users/Navid_gh/Desktop/Project/taxiMeter.v {2 {vlog -work work -vopt -stats=none C:/Users/Navid_gh/Desktop/Project/taxiMeter.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module taxiMeter
+** Warning: C:/Users/Navid_gh/Desktop/Project/taxiMeter.v(28): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	taxiMeter
+
+} {} {}}

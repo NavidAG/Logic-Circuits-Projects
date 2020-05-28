@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.6d/examples
+vtaxiMeter
+!s110 1580196179
+!i10b 1
+!s100 AgTN[JnR>Wi>i3Rb<4DWd0
+I5m^2Cc;]cmbS0O[=ojf`A1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Navid_gh/Desktop/Project
+w1580196178
+8C:/Users/Navid_gh/Desktop/Project/taxiMeter.v
+FC:/Users/Navid_gh/Desktop/Project/taxiMeter.v
+L0 1
+Z3 OL;L;10.6d;65
+r1
+!s85 0
+31
+!s108 1580196179.000000
+!s107 C:/Users/Navid_gh/Desktop/Project/taxiMeter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Navid_gh/Desktop/Project/taxiMeter.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+ntaxi@meter
+vtaxiMeter1
+!s110 1580193977
+!i10b 1
+!s100 1o2Z>mlbZYB^7^@1[CHC<1
+IAIU90XGaQABf^PJ:3RT@E3
+R1
+R2
+w1580193974
+8C:/Users/Navid_gh/Desktop/Project/OccasionalTaxiMeter.v
+FC:/Users/Navid_gh/Desktop/Project/OccasionalTaxiMeter.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1580193976.000000
+!s107 C:/Users/Navid_gh/Desktop/Project/OccasionalTaxiMeter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Navid_gh/Desktop/Project/OccasionalTaxiMeter.v|
+!i113 0
+R4
+R5
+ntaxi@meter1
